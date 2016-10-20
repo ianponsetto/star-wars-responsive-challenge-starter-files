@@ -1,0 +1,42 @@
+.header {
+    background-color: #EEAD0E;
+    padding: 10px;
+    position: relative;
+}
+
+.cards-1,
+cards-2,
+cards-3 {
+    display: inline-block;
+}
+
+.ray {
+    border: 1px solid lightgray;
+    text-align: center;
+    width: 100%;
+}
+
+.poe {
+    border: 1px solid lightgray;
+    text-align: center;
+}
+
+.finn {
+    border: 1px solid lightgray;
+    text-align: center;
+}
+
+.chewbacca {
+    border: 1px solid lightgray;
+    text-align: center;
+}
+
+.kylo {
+    border: 1px solid lightgray;
+    text-align: center;
+}
+
+.yoda {
+    border: 1px solid lightgray;
+    text-align: center;
+}
