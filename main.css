@@ -1,13 +1,10 @@
 .header {
     background-color: #EEAD0E;
     padding: 10px;
-    position: relative;
 }
 
-.cards-1,
-cards-2,
-cards-3 {
-    display: inline-block;
+.margin-top {
+    margin-top: 25px;
 }
 
 .ray {
@@ -19,24 +16,29 @@ cards-3 {
 .poe {
     border: 1px solid lightgray;
     text-align: center;
+    width: 100%;
 }
 
 .finn {
     border: 1px solid lightgray;
     text-align: center;
+    width: 100%;
 }
 
 .chewbacca {
     border: 1px solid lightgray;
     text-align: center;
+    width: 100%;
 }
 
 .kylo {
     border: 1px solid lightgray;
     text-align: center;
+    width: 100%;
 }
 
 .yoda {
     border: 1px solid lightgray;
     text-align: center;
+    width: 100%;
 }
